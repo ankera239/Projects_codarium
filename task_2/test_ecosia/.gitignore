@@ -1,6 +1,0 @@
-.pytest_cache
-*.log
-local_settings.py
-downloads/
-__pycache__/
-.idea
